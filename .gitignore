@@ -1,0 +1,16 @@
+# 大型预训练资源与模型缓存（体积过大，不入库）
+bert-base-uncased/
+cache/
+glove.6B.zip
+glove.6B.100d.txt
+results/*.pt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统与临时文件
+.DS_Store
+*.log
+*.bat
+detach_test.*

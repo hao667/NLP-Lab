@@ -1,0 +1,14 @@
+{
+  "Word2Vec on AG News": {
+    "accuracy": 0.9782986111111112,
+    "macro_f1": 0.9468685218610707
+  },
+  "Word2Vec on NYT": {
+    "accuracy": 0.9791666666666666,
+    "macro_f1": 0.9472541011940185
+  },
+  "Pre-trained GloVe": {
+    "accuracy": 0.9852430555555556,
+    "macro_f1": 0.9645061728395062
+  }
+}
